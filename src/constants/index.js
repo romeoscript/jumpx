@@ -34,40 +34,40 @@ import {
   yourlogo,
 } from "../assets";
 
-export const navigation = [
-  {
-    id: "0",
-    title: "Features",
-    url: "#features",
-  },
-  {
-    id: "1",
-    title: "Pricing",
-    url: "#pricing",
-  },
-  {
-    id: "2",
-    title: "How to use",
-    url: "#how-to-use",
-  },
-  {
-    id: "3",
-    title: "Roadmap",
-    url: "#roadmap",
-  },
-  {
-    id: "4",
-    title: "New account",
-    url: "#signup",
-    onlyMobile: true,
-  },
-  {
-    id: "5",
-    title: "Sign in",
-    url: "#login",
-    onlyMobile: true,
-  },
-];
+// export const navigation = [
+//   {
+//     id: "0",
+//     title: "Features",
+//     url: "#features",
+//   },
+//   {
+//     id: "1",
+//     title: "Pricing",
+//     url: "#pricing",
+//   },
+//   {
+//     id: "2",
+//     title: "How to use",
+//     url: "#how-to-use",
+//   },
+//   {
+//     id: "3",
+//     title: "Roadmap",
+//     url: "#roadmap",
+//   },
+//   {
+//     id: "4",
+//     title: "New account",
+//     url: "#signup",
+//     onlyMobile: true,
+//   },
+//   {
+//     id: "5",
+//     title: "Sign in",
+//     url: "#login",
+//     onlyMobile: true,
+//   },
+// ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 
@@ -242,16 +242,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Robotics & Drones",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Bridging The Gap",
+    text: "In the fast-paced world of technology, access to experienced guidance is more crucial than ever. Yet, senior engineers and tech experts are often stretched thin, leading to bottlenecks in decision-making and mentorship. Our chatbot bridges this gap, providing instant, reliable support and insights drawn from the wealth of knowledge typically held by industry veterans. Welcome to a new era of technical problem-solving.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Viuality and Reality ",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Mission ",
+    text: "Our mission is straightforward: to democratize access to senior engineering expertise. We believe that every developer, regardless of their location or the size of their company, deserves to have their questions answered and their technical hurdles overcome with the wisdom of experienced engineers. Our chatbot leverages cutting-edge AI, curated knowledge bases, and the collective intelligence of seasoned professionals to make this a reality.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -259,8 +259,8 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "blockchain Project ",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    title: "Code Snippet Analysis",
+    text: "Submit code snippets for review and receive suggestions for optimization and improvement.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
@@ -268,7 +268,7 @@ export const benefits = [
   {
     id: "3",
     title: "Maching Learning",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    text: "Jumpx, integrates seamlessly into tools your team already uses - Slack, Discord, Telegram, and more - to provide real-time answers to technical queries, guidance on complex problems, and even code review insights. Designed with the knowledge and experience of senior engineers, Jumpx acts as a bridge to the insights and guidance you need, when you need it the most.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -276,16 +276,16 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "order management",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Wide Range of Expertise",
+    text: "From software architecture to the latest in cloud technologies, our bot covers a broad spectrum of engineering disciplines.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "5",
-    title: "Image processing",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Customizable Knowledge Base",
+    text: "Tailor the bot’s responses by integrating your own documentation and resources, making it even more powerful and specific to your needs.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
