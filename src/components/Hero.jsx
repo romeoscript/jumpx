@@ -23,7 +23,7 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-          Specialized Artificial &nbsp;AI&nbsp;Intelligence Startup {` `}
+          Software Engineering &nbsp;AI&nbsp; Made Easy! {` `}
             {/* <span className="inline-block relative">
               jumpx{" "}
               <img
@@ -36,11 +36,11 @@ const Hero = () => {
             </span> */}
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Unleash the power of AI within jumpx. Upgrade your productivity
-            with jumpx, the open AI chat app.
+            Unleash the power of AI within your engineering team. Upgrade your productivity
+            with jumpx, the all in one tool for engineering!.
           </p>
-          <Button href="/pricing" white>
-            Get started
+          <Button href="#" white>
+             Solving the Gap in Technical Expertise
           </Button>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
